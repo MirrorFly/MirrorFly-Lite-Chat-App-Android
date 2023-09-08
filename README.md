@@ -17,11 +17,13 @@ Step 3: From the MirrorFly console Overview Page you can find your unique Licens
 
 ## License Key Configuration
 
-The integration process just involves the license key configuration in the initializeSDK method, that’s it.  Now you can able to buid & run the demo app at ease. 
+The integration process just involves the license key configuration in the initializeSDK method, that’s it.  Now you can able to build & run the demo app at ease. 
 
 #### License Key Example:
 ```kotlin
-MirrorFlyUIKit.initializeSDK(this@SplashActivity, SplashActivity::class.java, " Enter Your License Key", object : FlyInitializeSDKCallback {
+var licenseKey = "XXXXXXXXXXXXXX"
+
+MirrorFlyUIKit.initializeSDK(this@SplashActivity, SplashActivity::class.java, licenseKey, object : FlyInitializeSDKCallback {
 
 override fun flyError(isSuccess: Boolean, throwable: Throwable?, data: HashMap<String, Any>) {
 
