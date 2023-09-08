@@ -52,6 +52,10 @@ class BaseApplication:Application() {
             override fun onlyOnetoOneChat(): Boolean? {
                 return false
             }
+
+            override fun isSettingsOptionEnable(): Boolean? {
+                return false
+            }
         })
 
         MirrorFlyUIKit.defaultThemeMode = MirrorFlyUIKit.ThemeMode.Light
