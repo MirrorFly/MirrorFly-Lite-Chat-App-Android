@@ -42,6 +42,9 @@
             android:id="@+id/edt_txt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+            android:maxLines="1"
+            android:maxLength="25"
             />
     </com.google.android.material.textfield.TextInputLayout>
 
