@@ -14,8 +14,8 @@ Step 1: New to MirrorFly? Then register [here](https://www.mirrorfly.com/contact
 Step 2: Returning user? Then [Login](https://console.mirrorfly.com) to your MirrorFly user account
 
 Step 3: From the MirrorFly console Overview Page you can find your unique License Key. 
-#### [Check out the demo video here](https://www.gudsho.com/gvodcsv4wd)
 
+[Check out the demo video here](https://www.gudsho.com/gvodcsv4wd) (The video was made by just following the simple steps defined in this Page)
 
 
 ## License Key Configuration
