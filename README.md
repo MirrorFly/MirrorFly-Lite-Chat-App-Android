@@ -15,7 +15,7 @@ Step 2: Returning user? Then [Login](https://console.mirrorfly.com) to your Mirr
 
 Step 3: From the MirrorFly console Overview Page you can find your unique License Key. 
 
-[Check out the demo video here](https://www.gudsho.com/gvodcsv4wd) (The video was made by just following the simple steps defined in this Page)
+[Check out the demo video here](https://www.youtube.com/watch?v=u9FBjnNTsU0) (The video was made by just following the simple steps defined in this Page)
 
 
 ## License Key Configuration
